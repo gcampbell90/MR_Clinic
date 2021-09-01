@@ -1,4 +1,0 @@
-Microsoft.MixedReality.Input.dll
-Microsoft.MixedReality.QR.dll
-
-openxr_loader.dll
